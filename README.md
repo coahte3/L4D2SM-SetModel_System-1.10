@@ -11,7 +11,7 @@ DL: <a href="https://github.com/coahte3/L4D2SM-SetModel_System-1.10/releases/dow
 !SetModelAdmin &lt;Target&gt; &lt;SurvivorName&gt; // AdminOnly<br>
 <br>
 <b>&lt;Target&gt;</b><br>
-all / survivor / @all / @survivors, bot / bots / @bots, me / @me, 1~ (Client Number), PlayerName, @aim<br>
+all, @all, survivor, @survivors/ bot, bots, @bots/ me, @me/ 1~ (Client Number)/ PlayerName/ @aim<br>
 <br>
 <b>&lt;SurvivorName&gt;</b><br>
 nick, ellis, coach, rochelle, bill, francis, louis, zoey<br>
